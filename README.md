@@ -27,7 +27,7 @@ Similarly, this is for any other type of business agent. In fact, my initial sea
 The visual tools enable the user to easily set up new processes. The software includes a process explorer allowing for users who are not AI experts to be quickly able to use the tool. The intuitive icons make building new processes easier to grasp. 
  
 
-* The platform uses Natural Language Processing and Generative AI models [Gartner], (<https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia>). Amelia is able to listen what the user is saying, and generates a substantial response for the user. The advantage may be that for example, ChatGPT, which is a LLM as opposed to Natural Processing, gives some input, but is not conversational. [Amelia Podcast] (<https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098>)
+* The platform uses Natural Language Processing and Generative AI models [Gartner](<https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia>). Amelia is able to listen what the user is saying, and generates a substantial response for the user. The advantage may be that for example, ChatGPT, which is a LLM as opposed to Natural Processing, gives some input, but is not conversational. [Amelia Podcast](<https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098>)
 
 > Amelia also allows users to create virtual assistants that "start on intent". The users can input commonly used phrases that launches the process that is correlated. Everyday users do not necessarily need to learn code to add widgets, images, etc. [Amelia’s New Conversational AI Process Designer] (<https://www.youtube.com/watch?v=-6aTLlKodYk>)
 
@@ -36,9 +36,7 @@ The visual tools enable the user to easily set up new processes. The software in
 
 * This company is one of the leading and foundational companies focused on conversational AI.
 
-* Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? 
-*[Markdown Guide](https://www.markdownguide.org)*.*[Markdown Guide](https://www.markdownguide.org)*.
-[Meet Amelia and the future of work](https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
+* Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? [Meet Amelia and the future of work](https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
 
 * Other companies in this field include, 
   * IBM Watson, 
@@ -52,15 +50,15 @@ The visual tools enable the user to easily set up new processes. The software in
 ## Recommendations
 
 If I were to advise the institution where I work, I would recommend Amelia conversational software as a part of the technology tolls implemented in employee onboarding. I foresee so many changes where this software can enhance employee onboaring.
- 
+<br> 
 Even in its simplest format, this tools would be so helpful. Currently, as an onboarding specialist for medical research professionals, there are many opportunities here to streamflow the onboarding process.
- 
+<br>
 There are many research systems that employees encounter on a daily bases and sometimes most, if not all, systems integrate with one another. However, there are many instances of errors within the workflow between the systems.
- 
+<br>
 For instance, consent forms for IRB studies have specific information for each of the systems to communicate effectively between them.
- 
+<br> 
 If one system operates where a specific piece of information is needed as compared to another system that may not necessarily need that information, this presents a conflict. Perhaps the Amelia could be trained to understand the specific needs for all entries for all systems and how they integrate together, and perhaps also make suggestions for onboarding these sets of learners. 
-
+<br>
 
 **References**
 * https://en.wikipedia.org/wiki/Amelia_(company)
