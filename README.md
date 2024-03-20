@@ -37,7 +37,7 @@ The visual tools enable the user to easily set up new processes. The software in
 * This company is one of the leading and foundational companies focused on conversational AI.
 
 * Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? 
-
+*[Markdown Guide](https://www.markdownguide.org)*.*[Markdown Guide](https://www.markdownguide.org)*.
 [Meet Amelia and the future of work] (https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
 
 * Other companies in this field include, 
@@ -62,7 +62,7 @@ For instance, consent forms for IRB studies have specific information for each o
 If one system operates where a specific piece of information is needed as compared to another system that may not necessarily need that information, this presents a conflict. Perhaps the Amelia could be trained to understand the specific needs for all entries for all systems and how they integrate together, and perhaps also make suggestions for onboarding these sets of learners. 
 
 
-__ References __
+**References**
 * https://en.wikipedia.org/wiki/Amelia_(company)
 * https://www.zippia.com/ipsoft-careers-27679/history/
 * https://amelia.ai/conversational-ai/
