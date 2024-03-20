@@ -17,26 +17,29 @@ These are both unattributed VC (Venture Capital).
 ## Business Activities
 
 * Amelia seems to be very similar to Amazon's Alexa. However, Amelia is more geared towards providing a tailored customer service enabling customer agents to focus on more complex issues. In the case of the employee experience, Amelia uses AI to automate the onboarding experience.
- 
+<br>
+<br>
 Similarly, this is for any other type of business agent. In fact, my initial search focused on medical research which led me to Amelia for Healthcare. Customer experiences also include financial institutions, healthcare, insurance, telecommunications, and travel. Both agent and customer learn.
-
-* Intended customers may include any business type that wishes to launch AI a conversational AI platform for customer and/or employee engagement (Amelia, 2024).    
-
+<br>
+<br>
+* Intended customers may include any business type that wishes to launch AI a conversational AI platform for customer and/or employee engagement (Amelia, 2024).   
+<br>
+<br>
 * This company claims that their product incorporates a new process designer where it is easier to set up, includes icons making easier to configure and deploy (Amelia's New Conversational AI Process Designer, 2024). 
- 
+<br><br> 
 The visual tools enable the user to easily set up new processes. The software includes a process explorer allowing for users who are not AI experts to be quickly able to use the tool. The intuitive icons make building new processes easier to grasp. 
- 
+ <br><br>
 
-* The platform uses Natural Language Processing and Generative AI models [Gartner](<https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia>). Amelia is able to listen what the user is saying, and generates a substantial response for the user. The advantage may be that for example, ChatGPT, which is a LLM as opposed to Natural Processing, gives some input, but is not conversational. [Amelia Podcast](<https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098>)
-
-> Amelia also allows users to create virtual assistants that "start on intent". The users can input commonly used phrases that launches the process that is correlated. Everyday users do not necessarily need to learn code to add widgets, images, etc. [Amelia’s New Conversational AI Process Designer] (<https://www.youtube.com/watch?v=-6aTLlKodYk>)
+* The platform uses Natural Language Processing and Generative AI models ([Gartner, 2024](<https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia>). Amelia is able to listen what the user is saying, and generates a substantial response for the user. The advantage may be that for example, ChatGPT, which is a LLM as opposed to Natural Processing, gives some input, but is not conversational. ([Amelia Podcast, 2024](<https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098>)
+<br>
+> Amelia also allows users to create virtual assistants that "start on intent". The users can input commonly used phrases that launches the process that is correlated. Everyday users do not necessarily need to learn code to add widgets, images, etc. [Amelia’s New Conversational AI Process Designer, 2024](<https://www.youtube.com/watch?v=-6aTLlKodYk>)
 
 ---
 ## Landscape
 
 * This company is one of the leading and foundational companies focused on conversational AI.
 
-* Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? [Meet Amelia and the future of work](https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
+* Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? ([Meet Amelia and the future of work, 2024](https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work))
 
 * Other companies in this field include, 
   * IBM Watson, 
@@ -63,13 +66,14 @@ For instance, consent forms for IRB studies have specific information for each o
 <br>
 If one system operates where a specific piece of information is needed as compared to another system that may not necessarily need that information, this presents a conflict. Perhaps the Amelia could be trained to understand the specific needs for all entries for all systems and how they integrate together, and perhaps also make suggestions for onboarding these sets of learners. 
 <br>
+<br>
 
 **References**
-* https://en.wikipedia.org/wiki/Amelia_(company)
-* https://www.zippia.com/ipsoft-careers-27679/history/
-* https://amelia.ai/conversational-ai/
-* https://www.businesswire.com/news/home/20140929005268/en/Meet-Amelia-IPsoft%E2%80%99s-New-Artificial-Intelligence-Platform-Interacts-Like-a-Human
-* https://www.cbinsights.com/company/amelia
-* https://www.youtube.com/watch?v=-6aTLlKodYk
-* https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098
-* https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia
+* [Amelia the company](https://en.wikipedia.org/wiki/Amelia_(company))
+* [IPSoft Careers](https://www.zippia.com/ipsoft-careers-27679/history/)
+* [Amelia AI](https://amelia.ai/conversational-ai/)
+* [Meet Amelia](https://www.businesswire.com/news/home/20140929005268/en/Meet-Amelia-IPsoft%E2%80%99s-New-Artificial-Intelligence-Platform-Interacts-Like-a-Human)
+* [Amelia](https://www.cbinsights.com/company/amelia)
+* [Amelia’s New Conversational AI Process Designer](https://www.youtube.com/watch?v=-6aTLlKodYk)
+* [Enterprise AI Solutions Built to Drive Real Business Results](https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098)
+* [Gartner](https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia)
