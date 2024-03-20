@@ -38,7 +38,7 @@ The visual tools enable the user to easily set up new processes. The software in
 
 * Amelia has been around as long as IBM Watson. Within the last decade, Amelia has progressed alongside IBM Watson. Who's automating the enterprise? 
 *[Markdown Guide](https://www.markdownguide.org)*.*[Markdown Guide](https://www.markdownguide.org)*.
-[Meet Amelia and the future of work] (https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
+[Meet Amelia and the future of work](https://www.zdnet.com/article/automating-the-enterprise-and-the-future-of-work)
 
 * Other companies in this field include, 
   * IBM Watson, 
