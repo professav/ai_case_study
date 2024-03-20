@@ -50,13 +50,17 @@ The visual tools enable the user to easily set up new processes. The software in
 ## Recommendations
 
 If I were to advise the institution where I work, I would recommend Amelia conversational software as a part of the technology tolls implemented in employee onboarding. I foresee so many changes where this software can enhance employee onboaring.
-<br> 
+<br>
+<br>
 Even in its simplest format, this tools would be so helpful. Currently, as an onboarding specialist for medical research professionals, there are many opportunities here to streamflow the onboarding process.
+<br>
 <br>
 There are many research systems that employees encounter on a daily bases and sometimes most, if not all, systems integrate with one another. However, there are many instances of errors within the workflow between the systems.
 <br>
+<br>
 For instance, consent forms for IRB studies have specific information for each of the systems to communicate effectively between them.
 <br> 
+<br>
 If one system operates where a specific piece of information is needed as compared to another system that may not necessarily need that information, this presents a conflict. Perhaps the Amelia could be trained to understand the specific needs for all entries for all systems and how they integrate together, and perhaps also make suggestions for onboarding these sets of learners. 
 <br>
 
