@@ -60,7 +60,7 @@ For instance, consent forms for IRB studies have specific information for each o
 If one system operates where a specific piece of information is needed as compared to another system that may not necessarily need that information, this presents a conflict. Perhaps the Amelia could be trained to understand the specific needs for all entries for all systems and how they integrate together, and perhaps also make suggestions for onboarding these sets of learners. 
 
 
-<style>{color:blue;}> **References** </style>
+<style>p{color:blue;}**References**</style>
 * https://en.wikipedia.org/wiki/Amelia_(company)
 * https://www.zippia.com/ipsoft-careers-27679/history/
 * https://amelia.ai/conversational-ai/
