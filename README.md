@@ -8,7 +8,7 @@
 
 * The main idea behind the company Amelia AI was to create an intelligence platform that interacts like a human with humans. The platform does not simply mimic human behavior or thought processes, as in AI, but instead comprehends the underlying meanings of what is being communicated. Amelia connects the ideas between comprehensive goal to be achieved (Businesswire, 2024) 
 
-This happens through LLM. For instance for new employee onboarding, Amelia learns the employee training manual enabling the software to communicate or provide recommendations or solutions to the human employee. As one can imaging this would reduce the amount of human interaction for human resources for employee onboarding.
+* This happens through LLM. For instance for new employee onboarding, Amelia learns the employee training manual enabling the software to communicate or provide recommendations or solutions to the human employee. As one can imaging this would reduce the amount of human interaction for human resources for employee onboarding.
 
 * According to CB insights, only two out of three investors have been revealed. These include BuildGroup Management and Monroe Capital.
  
