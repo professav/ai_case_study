@@ -6,7 +6,9 @@
 
 * The name of the company I researched for Module 1 Challenge is Amelia. After searching for " AI for Medical Research", I came across Amelia for Healthcare. This is a Conversational AI platform that was founded in 1988. the founders of the company are Chetan Dube and Michael Bordash.
 
-* The main idea behind the company Amelia AI was to create an intelligence platform that interacts like a human with humans. The platform does not simply mimic human behavior or thought processes, as in AI, but instead comprehends the underlying meanings of what is being communicated. Amelia connects the ideas between comprehensive goal to be achieved (Businesswire, 2024) This happens through LLM. For instance for new employee onboarding, Amelia learns the employee training manual enabling the software to communicate or provide recommendations or solutions to the human employee. As one can imaging this would reduce the amount of human interaction for human resources for employee onboarding.
+* The main idea behind the company Amelia AI was to create an intelligence platform that interacts like a human with humans. The platform does not simply mimic human behavior or thought processes, as in AI, but instead comprehends the underlying meanings of what is being communicated. Amelia connects the ideas between comprehensive goal to be achieved (Businesswire, 2024) <br>
+
+This happens through LLM. For instance for new employee onboarding, Amelia learns the employee training manual enabling the software to communicate or provide recommendations or solutions to the human employee. As one can imaging this would reduce the amount of human interaction for human resources for employee onboarding.
 
 * According to CB insights, only two out of three investors have been revealed. These include BuildGroup Management and Monroe Capital.
  
@@ -17,22 +19,21 @@ These are both unattributed VC (Venture Capital).
 ## Business Activities
 
 * Amelia seems to be very similar to Amazon's Alexa. However, Amelia is more geared towards providing a tailored customer service enabling customer agents to focus on more complex issues. In the case of the employee experience, Amelia uses AI to automate the onboarding experience.
-<br>
-<br>
+
 Similarly, this is for any other type of business agent. In fact, my initial search focused on medical research which led me to Amelia for Healthcare. Customer experiences also include financial institutions, healthcare, insurance, telecommunications, and travel. Both agent and customer learn.
-<br>
 <br>
 * Intended customers may include any business type that wishes to launch AI a conversational AI platform for customer and/or employee engagement (Amelia, 2024).   
 <br>
-<br>
+
 * This company claims that their product incorporates a new process designer where it is easier to set up, includes icons making easier to configure and deploy (Amelia's New Conversational AI Process Designer, 2024). 
-<br><br> 
+<br>
 The visual tools enable the user to easily set up new processes. The software includes a process explorer allowing for users who are not AI experts to be quickly able to use the tool. The intuitive icons make building new processes easier to grasp. 
  <br><br>
 
 * The platform uses Natural Language Processing and Generative AI models ([Gartner, 2024](<https://www.gartner.com/reviews/market/enterprise-conversational-ai-platforms/vendor/amelia/product/amelia>). Amelia is able to listen what the user is saying, and generates a substantial response for the user. The advantage may be that for example, ChatGPT, which is a LLM as opposed to Natural Processing, gives some input, but is not conversational. ([Amelia Podcast, 2024](<https://amelia.ai/podcast/enterprise-ai-solutions-built-to-drive-real-business-results/?utm_content=272482358&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68792098>)
 <br>
-> Amelia also allows users to create virtual assistants that "start on intent". The users can input commonly used phrases that launches the process that is correlated. Everyday users do not necessarily need to learn code to add widgets, images, etc. [Amelia’s New Conversational AI Process Designer, 2024](<https://www.youtube.com/watch?v=-6aTLlKodYk>)
+
+> Amelia also allows users to create virtual assistants that "start on intent". The users can input commonly used phrases that launches the process that is correlated. Everyday users do not necessarily need to learn code to add widgets, images, etc. ([Amelia’s New Conversational AI Process Designer, 2024](https://www.youtube.com/watch?v=-6aTLlKodYk))
 
 ---
 ## Landscape
